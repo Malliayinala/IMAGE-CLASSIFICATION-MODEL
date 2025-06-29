@@ -63,3 +63,5 @@ This CNN-based image classifier can be applied to various real-world problems:
 🤖 Robotics: Object recognition for autonomous navigation
 
 ## Output:
+
+![Image](https://github.com/user-attachments/assets/2bd7f54f-3087-40ba-8ce2-afb7eefc699e)
